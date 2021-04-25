@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(241, 199, 134);
+}
+
+#id1 {
+    color: blue;
+    font-size: 20px;
+}
+
+.class1 {
+    color: blueviolet;
+}
+
+div > p {
+    color: green;
+}
